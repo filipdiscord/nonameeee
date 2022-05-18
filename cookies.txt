@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+stanivukovicdrasko.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wp-settings-0	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wp-settings-time-0	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wordpress_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wordpress_sec_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wordpressuser_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wordpresspass_3efaf66183824b2a5d4675bb1e5c8bfb	+
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wp-postpass_3efaf66183824b2a5d4675bb1e5c8bfb	+
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	c97e61ca2aef6cb9d9bf54beefe2ddae
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZFdWNhVUZCNnpnN2NyR2JtbFlPa0hZNlZuK3dkcjN2eGJ1U29lYk4rYWcwKzNvYStxRy9ra0xUdlZzM256WGMzQjYxYU5OaDFuL254NXFXQ1JpM1dmUkZvbjFzd0JoUWRza0ZFODVSYWN1MD0mL0dKQ3Q2YXhKaEFrOWNTK2Y4WVg4UFdWL0hJPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	b5e0c7c7-1cae-4d40-98f7-676d991e03fe"
+stanivukovicdrasko.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
